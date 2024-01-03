@@ -1,0 +1,1 @@
+from .mycifar100 import MYCIFAR100
